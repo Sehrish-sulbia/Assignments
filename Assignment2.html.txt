@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+    
+    <title>Phonebook</title>
+    <h2>This is my PhoneBook</h2>
+    <link rel="stylesheet" href="style.css">
+    <body>
+        <p>My ContactList</p>
+        
+        <dl>
+            <div>
+                <dt>A</dt>
+                <dd>Abhijeet</dd>
+                <dd>Adeeb</dd>
+                <dd>Afeefa</dd>
+                <dd>Arsalol</dd>
+                <dd>Asset</dd>
+                <dd>Aurang</dd>
+                <dd>Ayush</dd>
+                <dd>Azeez</dd>
+                
+                
+
+            </div>
+
+
+            <div>
+                <dt>B</dt>
+                <dd>Bella</dd>
+                <dd>Bennet</dd>
+                <dd>Bob</dd>
+                <dd>Brandon</dd>
+                <dd>Brody</dd>
+                <dd>Bzzaire</dd>
+
+
+
+            </div>
+            <div>
+                <dt>C</dt>
+                <dd>Catherine</dd>
+                <dd>Carol</dd>
+                <dd>Cecilia</dd>
+                <dd>Charlie Puth</dd>
+                <dd>Clara Winkton</dd>
+                <dd>Clark</dd>
+                <dd>Cheg Willington</dd>
+                <dd>Czek</dd>
+
+
+
+            </div>
+            <div>
+                <dt>D</dt>
+                <dd>Daiwik</dd>
+                <dd>Daksh</dd>
+                <dd>Dakskanya Singh</dd>
+                <dd>Dazyy</dd>
+                <dd>Darakshan</dd>
+                <dd>Damis</dd>
+                <dd>Deven</dd>
+                <dd>Drake</dd>
+                <dd>Dzire owner</dd>
+
+                </div>
+
+            <div>
+                <dt>E</dt>
+                <dd>Ella</dd>
+                <dd>Emillia</dd>
+
+
+            </div>
+
+            <div>
+                <dt>F</dt>
+                <dd>Faiz</dd>
+                <dd>Fatty</dd>
+                <dd>Firoz</dd>
+                <dd>Francisco</dd>
+                <dd>Fraandd</dd>
+                <dd>Franklin</dd>
+                <dd>Franky Wankyy</dd>
+
+            </div>
+
+
+            <div>
+                <dt>H</dt>
+                <dd>Harrison</dd>
+                <dd>Harvey</dd>
+                <dd>Hector Scale</dd>
+                <dd>Hendrix Christiano</dd>
+                <dd>Hudsan</dd>
+                <dd>Harry Hostel</dd>
+                <dd>Hayden</dd>
+                <dd>Hayes</dd>
+
+            </div>
+
+            <div>
+                <dt>I</dt>
+                <dd>Ishika</dd>
+                </div>
+
+
+                <div>
+                    <dt>J</dt>
+                    <dd>Jack</dd>
+                    <dd>James</dd>
+                    <dd>Jackson</dd>
+                    <dd>Jay</dd>
+                    <dd>Jerry</dd>
+                    <dd>Joseph</dd>
+                   
+    
+                </div>
+
+
+                <div>
+                    <dt>K</dt>
+                    <dd>Kaiden</dd>
+                    <dd>Kaleb</dd>
+                    <dd>Kevin Levin</dd>
+                    <dd>Kingston UK</dd>
+                   
+                   
+    
+                </div>
+
+                <div>
+                    <dt>L</dt>
+                    <dd>Liza/dd>
+                    <dd>Luisa</dd>
+                    <dd>Luisa King</dd>
+                    
+
+                    </div>
+
+
+                    <div>
+                        <dt>M</dt>
+                        <dd>Maaike</dd>
+                        <dd>Maria</dd>
+                        <dd>Mart</dd>
+                        <dd>Maskyy</dd>
+                        <dd>Mayan</dd>
+                        <dd>Mabel</dd>
+                        <dd>Monkeyyy</dd>
+                        <dd>Morgan</dd>
+                       
+                       
+        
+                    </div>
+
+
+                    <div>
+                        <dt>N</dt>
+                        <dd>Nazeh</dd>
+                        <dd>Nisha M</dd>
+                        <dd>Nishi</dd>
+                        <dd>Nooria</dd>
+                        <dd>Nlp</dd>
+                        
+    
+                        </div>
+    
+    
+
+                        <div>
+                            <dt>P</dt>
+                            <dd>Pinky</dd>
+                            <dd>Philips</dd>
+                            <dd>Porter</dd>
+                            <dd>Princeton</dd>
+                            
+        
+                            </div>
+
+                            <div>
+                                <dt>R</dt>
+                                <dd>Raman</dd>
+                                <dd>Raiyan</dd>
+                                <dd>Razdan</dd>
+                                <dd>Remington Cristopher</dd>
+                                <dd>Roman</dd>
+                                <dd>Rowan</dd>
+                                <dd>Ryder Z</dd>
+                                
+            
+                                </div>
+
+
+                                <div>
+                                    <dt>S</dt>
+                                    <dd>Sabeel Sir</dd>
+                                    <dd>Sahil</dd>
+                                    <dd>Sandy</dd>
+                                    <dd>Sehr</dd>
+                                    <dd>Simon</dd>
+                                    <dd>Shivani</dd>
+                                    <dd>Shoiab</dd>
+                                    <dd>Stephen</dd>
+                                    <dd>Steven Carl</dd>
+                                    
+                
+                                    </div>
+    
+
+                                    <div>
+                                        <dt>T</dt>
+                                        <dd>Tanya</dd>
+                                        <dd>Tzkary</dd>
+                                      
+                                        
+                    
+                                        </div>
+
+                                        <div>
+                                            <dt>U</dt>
+                                            <dd>Usman</dd>
+                                            <dd>Usmani</dd>
+                                           
+                                          
+                                            
+                        
+                                            </div>
+
+
+
+                                            <div>
+                                                <dt>W</dt>
+                                                <dd>Warisha</dd>
+                                                <dd>Wakas</dd>
+                                
+                                                </div>
+
+
+                                                <div>
+                                                    <dt>Z</dt>
+                                                    <dd>Zareen Aziz</dd>
+                                                    <dd>Zaman sir</dd>
+                                                    <dd>Zeeshan</dd>
+                                                    <dd>Zidus</dd>
+                                                    <dd>Zimnish</dd>
+                                    
+                                                    </div>
+
+     
+        </dl>
+        
+    </body>
+</html>

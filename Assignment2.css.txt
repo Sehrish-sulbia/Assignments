@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+dl > div {
+  background: rgb(240, 213, 213);
+  padding: 24px 0 0 0;
+}
+
+dt {
+  background: #659ac2;
+  border-bottom: 1px solid #989EA4;
+  border-top: 1px solid #717D85;
+  color: rgb(107, 19, 19);
+  font: bold 18px/21px Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 2px 0 0 12px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: -1px;
+}
+
+dd {
+  font: bold 20px/45px Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0 0 0 12px;
+  white-space: nowrap;
+}
+
+dd + dd {
+  border-top: 1px solid rgb(204, 204, 204);
+}
+
+p::before{
+    content:"\2706"
+  
+}
+
+h2{
+    border-inline-start-color: ;
+    display:inline;
+    background-color: #adbbc7;
+}
+
